@@ -1,10 +1,13 @@
 https://rutgerssoftwareengineering.000webhostapp.com/
 
 Furniture Store Website
+
 Overview
+
 The Furniture Store Website is an online platform that allows users to register, log in, browse a selection of furniture products, add items to their cart, and make purchases. The website uses a backend database to manage product inventory and update it in real-time when users make purchases.
 
 Features
+
 User Registration: Users can create an account by providing a username and password.
 
 User Login: Registered users can log in using their credentials.
